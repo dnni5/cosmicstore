@@ -1,0 +1,196 @@
+{
+  "products":[
+     {
+      "id":1,
+        "title":"Nothing Phone 2",
+        "price":660,
+        "category":"smartphones",
+        "thumbnail":"https://m.media-amazon.com/images/I/71x5ntU43-L._AC_SX569_.jpg"
+     },
+     {
+      "id":2,
+      "title":"Xiomi Poco F5",
+      "price":570,
+      "category":"smartphones",
+      "thumbnail":"https://m.media-amazon.com/images/I/41bq4MQzYzL._SL500_.jpg"
+   },
+   {
+      "id":3,
+      "title":"Iphone 14 Pro Max 256GB",
+      "price":990,
+      "category":"smartphones",
+      "thumbnail":"https://www.apple.com/newsroom/images/product/iphone/geo/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-deep-purple-220907-geo_inline.jpg.large.jpg"
+   },
+   {
+      "id":4,
+      "title":"Samsung Galaxy s23 Ultra 256GB",
+      "price":870,
+      "category":"smartphones",
+      "thumbnail":"data:image/jpeg;base64,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"
+   },
+   {
+      "id":5,
+      "title":"Google pixel 8 Pro 512 GB",
+      "price":540,
+      "category":"smartphones",
+      "thumbnail":"https://m.media-amazon.com/images/I/81Mya-dPIOL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+   },
+   {
+      "id":6,
+      "title":"Xbox Series X",
+      "price":500,
+      "category":"tecnologia",
+      "thumbnail":"https://m.media-amazon.com/images/I/51ojzJk77qL._SX522_.jpg"
+   },
+   {
+      "id":7,
+      "title":"PS5 slim 1TB",
+      "price":600,
+      "category":"tecnologia",
+      "thumbnail":"https://m.media-amazon.com/images/I/31lJymmW2+L._SX342_SY445_.jpg"
+   },
+   {
+      "id":8,
+      "title":"Nintengo switch OLED",
+      "price":348,
+      "category":"tecnologia",
+      "thumbnail":"https://m.media-amazon.com/images/I/41zNqLiOenL._SY300_SX300_QL70_FMwebp_.jpg"
+   },
+   {
+      "id":10,
+      "title":"Steam Deck",
+      "price":445,
+      "category":"tecnologia",
+      "thumbnail":"https://m.media-amazon.com/images/I/51cTQaNzmLL.__AC_SY300_SX300_QL70_FMwebp_.jpg"
+   },
+   {
+      "id":11,
+      "title":"Asus Rog Ally",
+      "price":800,
+      "category":"tecnologia",
+      "thumbnail":"https://m.media-amazon.com/images/I/612qftKBfKL._SX522_.jpg"
+   },
+   {
+      "id":12,
+      "title":"Sceptre Monitor 75hz 22inch",
+      "price":79,
+      "category":"tecnologia",
+      "thumbnail":"https://m.media-amazon.com/images/I/61Yjn0kIHXL.__AC_SY300_SX300_QL70_FMwebp_.jpg"
+   },
+   {
+      "id":13,
+      "title":"Samsun Neo QlED 4K",
+      "price":990,
+      "category":"tecnologia",
+      "thumbnail":"https://m.media-amazon.com/images/I/81uQXxaR8JL._AC_SX466_.jpg"
+   },
+   {
+      "id":14,
+      "title":"Cerave crema",
+      "price":15,
+      "category":"belleza",
+      "thumbnail":"https://m.media-amazon.com/images/I/41tRt1pyslL._SX300_SY300_QL70_FMwebp_.jpg"
+   },
+   {
+      "id":15,
+      "title":"Eucerin oil control gel",
+      "price":18,
+      "category":"belleza",
+      "thumbnail":"https://m.media-amazon.com/images/I/31fceiTMOoL._SX300_SY300_QL70_FMwebp_.jpg"
+   },
+   {
+      "id":16,
+      "title":"Suncare 70fps",
+      "price":9,
+      "category":"belleza",
+      "thumbnail":"https://farmaenlace.vtexassets.com/arquivos/ids/164330/0000130409-3.jpg?v=638083714942830000"
+   },
+   {
+      "id":17,
+      "title":"Asepxia jabon en barra",
+      "price":3,
+      "category":"belleza",
+      "thumbnail":"https://m.media-amazon.com/images/I/7144CVsVqLL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+   },
+   {
+      "id":18,
+      "title":"Marcarilla facial Loreal",
+      "price":5,
+      "category":"belleza",
+      "thumbnail":"https://m.media-amazon.com/images/I/41dsiqlMMBL._SX300_SY300_QL70_FMwebp_.jpg"
+   },
+   {
+      "id":19,
+      "title":"Redoxon triple accion",
+      "price":10,
+      "category":"medicina",
+      "thumbnail":"https://m.media-amazon.com/images/I/71wBCx8t6XS.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+   },
+   {
+      "id":20,
+      "title":"Enterogermina kids",
+      "price":7,
+      "category":"medicina",
+      "thumbnail":"https://m.media-amazon.com/images/I/51hxCgMbCbL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+   },
+   {
+      "id":21,
+      "title":"Aspirina",
+      "price":4,
+      "category":"medicina",
+      "thumbnail":"https://www.aspirina.com.mx/sites/g/files/vrxlpx43166/files/2021-02/Aspirina%20efervescente%2012_Derecha-Alta.png"
+   },
+   {
+      "id":22,
+      "title":"Omeprezol",
+      "price":6,
+      "category":"medicina",
+      "thumbnail":"https://www.plmconnection.com/plmservices/PharmaSearchEngine/Ecuador/DEF/SIDEF/400x400/lasante_omeprazol_tabletas.png"
+   },
+   {
+      "id":23,
+      "title":"Buscapina",
+      "price":1,
+      "category":"medicina",
+      "thumbnail":"https://www.fybeca.com/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_FybecaEcuador/default/dwe3ff4e3f/images/large/100244545_1-buscapina-duo-325-mg-10-mg-unidad.jpg?sw=1000&sh=1000"
+   },
+   {
+      "id":24,
+      "title":"Gorra 27 Yankees",
+      "price":23,
+      "category":"ropa",
+      "thumbnail":"https://m.media-amazon.com/images/I/61mcZbTPAmS._AC_SX679_.jpg"
+   },
+   {
+      "id":25,
+      "title":"Chaqueta denim levis",
+      "price":80,
+      "category":"ropa",
+      "thumbnail":"https://m.media-amazon.com/images/I/81EDSMrZZoL._AC_SY606_.jpg"
+   },
+   {
+      "id":26,
+      "title":"Pantalon negro Zara",
+      "price":50,
+      "category":"ropa",
+      "thumbnail":"https://m.media-amazon.com/images/I/71JSAEwiuuL._AC_SY606_.jpg"
+   },
+   {
+      "id":27,
+      "title":"Camiseta logo The Kizz",
+      "price":23,
+      "category":"ropa",
+      "thumbnail":"https://www.fashionnova.com/cdn/shop/products/07-01-22Charles_KJ_RL_13-06-18_69_4MXX90080NV_Black_0538_EH_468x.jpg?v=1657044960"
+   },
+   {
+      "id":28,
+      "title":"Chaqueta crop negra",
+      "price":70,
+      "category":"ropa",
+      "thumbnail":"https://www.fashionnova.com/cdn/shop/files/11-29-23_Studio_7_KF_DJ_09-52-35_16_ZDF01O340040_Black_27096_SG_468x.jpg?v=1701733054"
+   }
+  ],
+  "total":100,
+  "skip":0,
+  "limit":30
+}

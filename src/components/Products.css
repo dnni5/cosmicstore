@@ -1,0 +1,43 @@
+.products {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.products ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.products li {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  background: #f8f8f8; /* Color de fondo similar al de eBay */
+  color: #333; /* Color de texto principal */
+  padding: 1rem;
+}
+
+.products h3 {
+  margin: 0;
+  font-size: 1.2rem; /* Tamaño de fuente un poco más grande */
+}
+
+.products span {
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+
+.products img {
+  border-radius: 8px;
+  width: 100%;
+  aspect-ratio: 16/9;
+  display: block;
+  object-fit: cover;
+  background: #fff;
+  border: 1px solid #ddd; /* Borde ligero alrededor de la imagen */
+}
